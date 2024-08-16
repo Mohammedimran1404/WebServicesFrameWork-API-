@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "portfolio": {
+      "currency": 0.432,
+      "region": 0.443,
+      "country": 0.00234,
+      "industry": 0.0934,
+      "fundamental": 0.887,
+      "riskFreeRate":0.987,
+      "modelReturn": 0.897,
+      "selectionResidual": -0.8975,
+      "buyNHoldReturn": 0.8765
+    },
+    "benchmark": {
+      "currency": 0.332,
+      "region": 0.543,
+      "country": 0.00134,
+      "industry": 0.0534,
+      "fundamental": 0.987,
+      "riskFreeRate":0.287,
+      "modelReturn": 0.397,
+      "selectionResidual": -0.9975,
+      "buyNHoldReturn": 0.18765
+
+    }
+  },
+  "factor": {
+
+  }
+}
